@@ -1,0 +1,104 @@
+{
+  "events": [
+    {
+      "duTeam": "Women's Basketball",
+      "opponent": "South Dakota State",
+      "date": "February 27"
+    },
+    {
+      "duTeam": "Men's Basketball",
+      "opponent": "Kansas City",
+      "date": "February 27"
+    },
+    {
+      "duTeam": "Men's Tennis",
+      "opponent": "BYU",
+      "date": "February 28"
+    },
+    {
+      "duTeam": "Women's Gymnastics",
+      "opponent": "Iowa State, (18) NC State",
+      "date": "February 28"
+    },
+    {
+      "duTeam": "Men's Lacrosse",
+      "opponent": "Marist",
+      "date": "February 28"
+    },
+    {
+      "duTeam": "Men's Ice Hockey",
+      "opponent": "St. Cloud State",
+      "date": "February 28"
+    },
+    {
+      "duTeam": "Women's Basketball",
+      "opponent": "South Dakota",
+      "date": "March 1"
+    },
+    {
+      "duTeam": "Women's Lacrosse",
+      "opponent": "#9 Maryland",
+      "date": "March 1"
+    },
+    {
+      "duTeam": "Men's Basketball",
+      "opponent": "South Dakota State",
+      "date": "March 1"
+    },
+    {
+      "duTeam": "Women's Tennis",
+      "opponent": "Kansas City",
+      "date": "March 1"
+    },
+    {
+      "duTeam": "Men's Ice Hockey",
+      "opponent": "St. Cloud State",
+      "date": "March 1"
+    },
+    {
+      "duTeam": "Women's Tennis",
+      "opponent": "Omaha",
+      "date": "March 2"
+    },
+    {
+      "duTeam": "Men's Tennis",
+      "opponent": "#56 Utah",
+      "date": "March 2"
+    },
+    {
+      "duTeam": "Men's Lacrosse",
+      "opponent": "Quinnipiac",
+      "date": "March 2"
+    },
+    {
+      "duTeam": "Men's Soccer",
+      "opponent": "Colorado Rapids II",
+      "date": "March 2"
+    },
+    {
+      "duTeam": "Women's Golf",
+      "opponent": "Round 1/2",
+      "date": "March 3"
+    },
+    {
+      "duTeam": "Women's Golf",
+      "opponent": "Round 3",
+      "date": "March 4"
+    },
+    {
+      "duTeam": "Skiing",
+      "opponent": "Giant Slalom",
+      "date": "March 5"
+    },
+    {
+      "duTeam": "Women's Lacrosse",
+      "opponent": "Michigan",
+      "date": "March 5"
+    },
+    {
+      "duTeam": "Women's Basketball",
+      "opponent": "#8 Omaha",
+      "date": "March 5"
+    }
+  ]
+}
